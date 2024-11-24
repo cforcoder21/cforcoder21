@@ -13,18 +13,20 @@ I love to code👨🏻‍💻, listen to music🎧, play badminton🏸 and also 
 Find some more (professional) details about me :
 
 - 🔭 I’m currently working on -> still figuring out.
+- 
 - 🌱 I’m currently learning -> Data Structures & Algorithms using C++, Object Oriented Programming using Python, Web Development.
+- 
 - 👯 I’m looking to collaborate on -> Studying together, sharing ideas, building something together in tech.
 
-                                                
-
-- 🤔 I’m looking for help with -> will let you know soon. 
+- 🤔 I’m looking for help with -> will let you know soon.
+- 
 - 💬 Ask me about -> Can we collaborate?
+- 
 - 📫 How to reach me: -> Let's connect :
                                       instagram id: ayush_sinha021
                                       facebook id: Ayush Sinha
                                       github id: cforcoder21
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: -> will let you know soon.
-
+- There's an update : I'm starting up again soon!
                                                             -->  Written with love by ayush ❤️
